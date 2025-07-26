@@ -1,10 +1,10 @@
 # BodyMeta: a Comprehensive Database for Microbes under Various Physiological and Pathological Conditions
 
-<a href="https://bodymeta.omicsbio.info/"><img src="https://bodymeta.omicsbio.info/static/img/logo2.png" alt="BodyMeta" width="200"></a>
+<a href="https://bodymeta.omicsbio.info/"><img src="img/logo.png" alt="BodyMeta" width="200"></a>
 
 **BodyMeta (Body Metagenome)** (https://bodymeta.omicsbio.info/) is a comprehensive database for microbes across body sites from human and mice. In total, 1,842 conditions derived from 1,261 studies across 31 body parts of human and mice, carefully categorized as 23 types of pathological changes and 19 types of physiological changes were collected and integrated in the database.
 
-<a href="https://bodymeta.omicsbio.info/"><img src="https://bodymeta.omicsbio.info/static/img/fig1.png" alt="BodyMeta Overview" width="800"></a>
+<a href="https://bodymeta.omicsbio.info/"><img src="img/fig1.png" alt="BodyMeta Overview" width="800"></a>
 
 
 
